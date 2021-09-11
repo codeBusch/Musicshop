@@ -1,0 +1,42 @@
+.text-purple{
+    color: purple;
+}
+.text-red{
+    color: red;
+}
+.text-yellow{
+    color: rgb(182, 182, 86);
+}
+.f-size24{
+    font-size: 24px;
+}
+.f-size32{
+    font-size: 32px;
+}
+.f-size48{
+    font-size: 48px;
+}
+.main-ul{
+    text-align: center;
+    vertical-align: middle;
+}
+li{
+    
+    list-style-position: inside;
+   
+}
+p{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+h4{
+    font-size: 28px;
+    margin-left: 36px;
+    vertical-align: middle;
+}
+ol{
+    text-align: center;
+    
+}
